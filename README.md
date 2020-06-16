@@ -3,9 +3,9 @@ Desenvolvido durante o bootcamp full stack IGTI, projeto simples para fixação 
 
 ## Conceitos aplicados
 
- ```componentDidMount``` Executado após o primeiro render() e útil para requisições HTTP.
- ```componentDidUpdate``` Executado após toda invocação de render() e útil para aplicação de "efeitos colaterais"
- ```componentWillUnmount``` Executado antes do comprovante "morrer e útil para finalização de objetos, como por exemplo clrarInterval
+ - ```componentDidMount``` Executado após o primeiro render() e útil para requisições HTTP.
+ - ```componentDidUpdate``` Executado após toda invocação de render() e útil para aplicação de "efeitos colaterais"
+ - ```componentWillUnmount``` Executado antes do comprovante "morrer e útil para finalização de objetos, como por exemplo clrarInterval
 
 ## Instalação
 
