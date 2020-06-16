@@ -1,5 +1,7 @@
 # react-lifecycle
+
 Desenvolvido durante o bootcamp full stack IGTI, projeto simples para fixação dos principais métodos do ciclo de vida de um class component.
+Esta aplicação simples possui um checked de on e off que quando ativo consome alguns usuários de uma API retornando apenas o nome e a foto.
 
 ## Conceitos aplicados
 
